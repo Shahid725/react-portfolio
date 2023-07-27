@@ -32,7 +32,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:abc@gmail.com",
+      href: "mailto:mohammedshahidms777@gmail.com",
     },
     {
       id: 4,
@@ -47,7 +47,7 @@ const SocialLinks = () => {
     },
   ];
   return (
-    <div className="hidden lg:flex flex-col top-[35%] left-0 fixed">
+    <div className=" lg:flex flex-col top-[50%] left-0 fixed">
       <ul>
         {links.map(({ id, child, style, download, href }) => (
           <li
