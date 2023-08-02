@@ -17,6 +17,10 @@ function App() {
       <Contact />
 
       <SocialLinks />
+      {/* <Test />
+      <Test2 />
+      <Test3 /> */}
+      {/* <Test4 /> */}
     </div>
   );
 }
